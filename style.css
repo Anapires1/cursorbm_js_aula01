@@ -1,0 +1,15 @@
+#atencao {
+	background-color: rgb(241, 220, 253);
+	width: 300px;
+	height: 150px;
+	margin-top: 25px;
+	display: grid;
+}
+
+#atencaoTitle {
+	text-align: center;
+}
+
+#info {
+	text-align: center;
+}
